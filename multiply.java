@@ -1,5 +1,5 @@
 import java.util.*;
-public class hello{
+public class multiply{
     
     public static void main(String args[])
     {
